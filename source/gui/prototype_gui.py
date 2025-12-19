@@ -1,6 +1,6 @@
 import tkinter as tk
 
-from tkinter import ttk, font
+from tkinter import ttk
 
 from source.core import Currency
 from source.data import AVAILABLE_MEALS, update_available_meals, update_available_ingredients
@@ -68,7 +68,7 @@ class PrototypeGui:
 
         update_view: tk.Button = tk.Button(
             master=self.button_frame,
-            text='Update',
+            text='Refresh Meals',
             width=15,
             command=self.update_selection_view
         )
@@ -152,7 +152,7 @@ class PrototypeGui:
                 )
             # Add new line
             self.selection_tree.insert(
-                    parent=recipe_section_id,
-                    index='end',
-                    values=('',)
-                )
+                parent=recipe_section_id,
+                index='end',
+                values=('',)
+            )
