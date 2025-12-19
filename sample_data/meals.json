@@ -1,8 +1,8 @@
 [
     {
         "name": "Pasta with Tomato Sauce",
-        "ingredients": ["Tomato", "Olive Oil", "Garlic", "Onion", "Pasta"],
-        "recipe": "1. Cook pasta according to package instructions.\n2. Chop tomatoes, onion, and garlic.\n3. Heat olive oil in a pan and sauté onion and garlic.\n4.Add tomatoes and simmer for 10 minutes.\n5. Mix sauce with cooked pasta and serve.",
+        "ingredients": ["Pasta Noodles", "Tomato", "Olive Oil", "Garlic", "Onion", "Pasta"],
+        "recipe": "1. Cook pasta noodles according to package instructions.\n2. Chop tomatoes, onion, and garlic.\n3. Heat olive oil in a pan and cook onion and garlic.\n4.Add tomatoes and simmer for 10 minutes.\n5. Mix sauce with cooked pasta and serve.",
         "description": "Classic pasta with homemade tomato sauce."
     },
     {
@@ -14,7 +14,7 @@
     {
         "name": "Cheesy Garlic Pasta",
         "ingredients": ["Pasta", "Cheese", "Garlic", "Olive Oil"],
-        "recipe": "1. Cook pasta according to package instructions.\n2. Heat olive oil and sauté minced garlic.\n3. Toss pasta with garlic and olive oil.\n4. Sprinkle grated cheese on top and serve hot.",
+        "recipe": "1. Cook pasta according to package instructions.\n2. Heat olive oil and cook minced garlic.\n3. Toss pasta with garlic and olive oil.\n4. Sprinkle grated cheese on top and serve hot.",
         "description": "Quick pasta with rich cheesy garlic flavor."
     },
     {
