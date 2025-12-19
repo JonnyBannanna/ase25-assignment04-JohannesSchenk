@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Tomato",
+        "cost": ["EUR", 1.0],
+        "calories": 22.0
+    },
+    {
+        "name": "Cheese",
+        "cost": ["EUR", 2.5],
+        "calories": 402.0
+    },
+    {
+        "name": "Chicken Breast",
+        "cost": ["EUR", 3.0],
+        "calories": 165.0
+    },
+    {
+        "name": "Olive Oil",
+        "cost": ["EUR", 0.5],
+        "calories": 884.0
+    },
+    {
+        "name": "Onion",
+        "cost": ["EUR", 0.6],
+        "calories": 40.0
+    },
+    {
+        "name": "Garlic",
+        "cost": ["EUR", 0.3],
+        "calories": 149.0
+    }
+]
